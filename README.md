@@ -10,8 +10,10 @@ To run this code
 
 3, Create "Img", "Rel", "Result", "U", "V" folders
 
-*Note all above folder put in same workspace with your code
+Run following command
 
-To run the code, run following command
+pip install -r requirement.txt
 
 python3 main.py --sessid [add session ID] --config [path to config file] --data [path to data folder] --output [path to output image folder] --[path to accuracy folder]
+
+*Note all above folder put in same workspace with your code and we use python 3 version 3.6.x
