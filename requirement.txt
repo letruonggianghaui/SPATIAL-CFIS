@@ -1,0 +1,4 @@
+numpy
+opencv-python
+beautifulsoup4
+shapely
